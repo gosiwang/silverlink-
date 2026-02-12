@@ -4,8 +4,14 @@
 
 독거노인을 위한 AI 기반 실시간 음성/텍스트 상담 서비스 플랫폼
 
-## 🌐 배포 URL
-**Live Demo**: [https://d1y2piyw58z1m3.cloudfront.net/](https://d1y2piyw58z1m3.cloudfront.net/)
+## 시연 영상
+- [https://www.youtube.com/watch?v=m49YjGbZ3S4](https://www.youtube.com/watch?v=m49YjGbZ3S4)
+- 
+## 🌐 배포 URL & 저장소
+- **🚀 Live Demo**: [https://d1y2piyw58z1m3.cloudfront.net/](https://d1y2piyw58z1m3.cloudfront.net/)
+- **📦 GitHub Organization**: [Sesac-SaltLux-Final](https://github.com/orgs/Sesac-SaltLux-Final/repositories)
+  - **원본 프로젝트**: https://github.com/orgs/Sesac-SaltLux-Final/repositories
+  - 본 README는 개인 포트폴리오용으로 재구성된 버전입니다.
 
 ---
 
@@ -253,6 +259,24 @@ logger.error("LLM API failed", error=str(e), retry_count=retry)
 
 
 ---
+
+
+## � 저장소 정보
+
+### 원본 프로젝트 (Organization)
+이 프로젝트는 **Sesac SaltLux Final Project**의 일환으로 개발되었습니다.
+
+- **GitHub Organization**: [Sesac-SaltLux-Final](https://github.com/orgs/Sesac-SaltLux-Final/repositories)
+- **전체 저장소 목록**: https://github.com/orgs/Sesac-SaltLux-Final/repositories
+
+프로젝트는 다음 3개의 저장소로 구성됩니다:
+- **SilverLink-AI**: FastAPI 기반 AI 서비스 (콜봇, 챗봇, OCR)
+- **SilverLink-BE**: Spring Boot 기반 백엔드 API
+- **SilverLink-FE**: React 기반 프론트엔드
+
+### 개인 포트폴리오
+본 README는 개인 기여 사항을 중심으로 재구성된 포트폴리오용 문서입니다.
+
 
 
 ## 🙏 감사의 말
